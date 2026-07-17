@@ -12,5 +12,7 @@
   ## Member Module.
   - Register Member
   -Remove Member 
-
+  ## Search
+   - Search by Title
+   - Search by Author 
 ECHO is on.
